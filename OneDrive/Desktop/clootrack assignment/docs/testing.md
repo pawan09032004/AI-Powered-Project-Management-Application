@@ -6,6 +6,3 @@ This file records a brief summary of checks executed after each stage.
   - [x] Verified project directory and presence of `Tech_Intern_Assessment.pdf`
   - [x] Implemented and ran `extract_pdf_text.py` to confirm we can read the assessment text
 
-- **Stage 1 – requirements documentation**
-  - [x] No code changes; verified `docs/requirements.md` renders and contains all specified sections
-
